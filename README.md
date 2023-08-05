@@ -1,2 +1,2 @@
 My first readme
-this is my update , do i really need to do it
+this is my update, do I really need to do it
